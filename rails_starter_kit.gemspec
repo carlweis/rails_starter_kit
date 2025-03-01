@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/carlweis/rails-starter-kit"
-  spec.metadata["changelog_uri"] = "https://github.com/carlweis/rails-starter-kit/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/carlweis/rails_starter_kit"
+  spec.metadata["changelog_uri"] = "https://github.com/carlweis/rails_starter_kit/CHANGELOG.md"
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
