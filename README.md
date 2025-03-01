@@ -1,5 +1,9 @@
-# RailsStarterKit
-Short description and motivation.
+# Rails Starter Kit
+https://www.railsstarter.com
+
+Ruby on Rails 8, Inertia, Vite, React, Tailwind, and shadcn starter kit! We picked some reasonable defaults to help you start building your application faster and focus on what matters most.
+
+Build someting awesome!
 
 ## Usage
 How to use my plugin.
